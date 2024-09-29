@@ -82,5 +82,6 @@ The Tableau dashboard created for this project showcases the key insights:
 To view the Tableau dashboard, visit: [View Tableau Dashboard](https://public.tableau.com/views/my_project_17261572432260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Comprehensive Report
-To view the comprehensive report of this analysis visit:[Comprehensive Report](https://github.com/tharun2806/end-to-end-analysis-of-an-internship-dataset/blob/main/comprehensive%20analysis%20report.html)
+## Comprehensive Analysis Report
+You can view the comprehensive analysis report,visit [Comprehensive Analysis Report](https://tharun2806.github.io/end-to-end-analysis-of-an-internship-dataset/comprehensive%20analysis%20report.html).
 
