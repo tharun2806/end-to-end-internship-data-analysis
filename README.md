@@ -12,6 +12,7 @@
   - [Statistical, Sectoral, and Geospatial Analysis](#statistical-sectoral-and-geospatial-analysis)
 - [Results](#results)
 - [Tableau Dashboard](#tableau-dashboard)
+- [Comprehensive Report](#comprehensive-report)
 
 ## Project Overview
 This project involves a comprehensive analysis of an internship dataset obtained from Kaggle. It focuses on cleaning and preprocessing the dataset, followed by exploratory data analysis (EDA), and conducting statistical, sectoral, and geospatial analysis. The key insights are visualized using an interactive Tableau dashboard.
@@ -79,3 +80,7 @@ The Tableau dashboard created for this project showcases the key insights:
 - **Sectoral Breakdown** of internships based on stipend distribution.
 
 To view the Tableau dashboard, visit: [View Tableau Dashboard](https://public.tableau.com/views/my_project_17261572432260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Comprehensive Report
+To view the comprehensive report of this analysis visit:[Comprehensive Report](https://github.com/tharun2806/end-to-end-analysis-of-an-internship-dataset/blob/main/comprehensive%20analysis%20report.html)
+
